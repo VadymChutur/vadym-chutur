@@ -1,4 +1,3 @@
-``` markdown
 # Vadym Chutur
 **Network & Systems Engineer**
 Kyiv, Ukraine | +380936310156 | vadymchutur@gmail.com | Telegram | LinkedIn  
@@ -58,5 +57,3 @@ IT engineer focused on designing fault-tolerant infrastructure, network security
 ## Languages
 * **Ukrainian:** Native
 * **English:** Intermediate (B1), Limited working proficiency (Confident in reading technical documentation)
-
-```
